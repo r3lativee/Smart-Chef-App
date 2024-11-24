@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "1083843952300",
+    "project_id": "smart-chef-c0f65",
+    "storage_bucket": "smart-chef-c0f65.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083843952300:android:f698a38487efaa7ef22909",
+        "android_client_info": {
+          "package_name": "com.chef.ap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083843952300-aejv794h9tp3v6ameq79pb7u5ubetskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMBdAtHPIq4CkdhhOhYHvkdEYzvNlGng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083843952300-aejv794h9tp3v6ameq79pb7u5ubetskg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083843952300-escap06aremmec2pnbv3f7fe3rfukuqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartChefApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083843952300:android:5027487a4c8d9413f22909",
+        "android_client_info": {
+          "package_name": "com.example.smart_chef_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083843952300-aejv794h9tp3v6ameq79pb7u5ubetskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMBdAtHPIq4CkdhhOhYHvkdEYzvNlGng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083843952300-aejv794h9tp3v6ameq79pb7u5ubetskg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083843952300-escap06aremmec2pnbv3f7fe3rfukuqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartChefApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083843952300:android:d639e90c282231a7f22909",
+        "android_client_info": {
+          "package_name": "com.smartchef.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083843952300-aejv794h9tp3v6ameq79pb7u5ubetskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMBdAtHPIq4CkdhhOhYHvkdEYzvNlGng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083843952300-aejv794h9tp3v6ameq79pb7u5ubetskg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083843952300-escap06aremmec2pnbv3f7fe3rfukuqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartChefApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083843952300:android:bd417ac5429be218f22909",
+        "android_client_info": {
+          "package_name": "com.smartchef.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083843952300-aejv794h9tp3v6ameq79pb7u5ubetskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMBdAtHPIq4CkdhhOhYHvkdEYzvNlGng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083843952300-aejv794h9tp3v6ameq79pb7u5ubetskg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083843952300-escap06aremmec2pnbv3f7fe3rfukuqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartChefApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
