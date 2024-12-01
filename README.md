@@ -16,6 +16,6 @@ This Project is about recommending recipes based on the ingredients available. Y
 <img src="https://github.com/user-attachments/assets/ad6327d1-e15b-4cda-8b3b-afac7337bcf2" alt="Image 2" width="300">
 
 
+<video src="https://github.com/user-attachments/assets/30a964cf-9ee3-40f4-bd4c-95af5a185477" autoplay loop muted></video>
 
-https://github.com/user-attachments/assets/30a964cf-9ee3-40f4-bd4c-95af5a185477
 
