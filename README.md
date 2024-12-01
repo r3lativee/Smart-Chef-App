@@ -1,16 +1,13 @@
 # smart_chef_app
 
-A new Flutter project.
+This Project is about recommending recipes based on the ingredients available. You can also search for a recipe.
 
-## Getting Started
+Thee are some of the Screenshots of the project and video
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2024-12-01 at 12 23 15_0424624c](https://github.com/user-attachments/assets/2b849bf6-4235-487e-a291-296caddaa76c)
+![WhatsApp Image 2024-12-01 at 12 23 16_2f94c599](https://github.com/user-attachments/assets/ad6327d1-e15b-4cda-8b3b-afac7337bcf2)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/user-attachments/assets/30a964cf-9ee3-40f4-bd4c-95af5a185477
+
